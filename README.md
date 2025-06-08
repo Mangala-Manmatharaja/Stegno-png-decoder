@@ -16,3 +16,15 @@ Check the help message for usage details:
 
     $ ./steganography-png-decoder.py -h
 
+Output:
+
+    usage: steganography-png-decoder.py [-h] file
+    
+    Prints PNG text sections
+    
+    positional arguments:
+      file        📄 A PNG image
+    
+    optional arguments:
+      -h, --help  ❓ Show this help message and exit
+
