@@ -10,3 +10,6 @@ Clone the repository and set up the script:
     $ cd steganography-png-decoder
     $ chmod +x steganography-png-decoder.py
 
+### 📖 Basic Usage
+
+Check the help message for usage details:
