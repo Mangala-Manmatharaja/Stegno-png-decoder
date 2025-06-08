@@ -28,3 +28,10 @@ Output:
     optional arguments:
       -h, --help  ❓ Show this help message and exit
 
+
+Example:
+
+Extract text from a sample PNG image:
+
+    $ ./steganography-png-decoder.py samples/tEXT-chunks.png
+
