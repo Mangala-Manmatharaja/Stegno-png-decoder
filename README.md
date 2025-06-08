@@ -13,3 +13,6 @@ Clone the repository and set up the script:
 ### 📖 Basic Usage
 
 Check the help message for usage details:
+
+    $ ./steganography-png-decoder.py -h
+
