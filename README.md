@@ -2,7 +2,7 @@
 
 A Python script to extract encoded text from PNG images.
 
-### 🚀 Prepare
+### 🚀 Prepa
 
 Clone the repository and set up the script:
 
