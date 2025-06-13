@@ -1,6 +1,6 @@
 # 🖼️ Steganography PNG Decoder
 
-A Python script to extract encoded text from PNG image
+A Python script to extract encoded text from PNG images,
 
 ### 🚀 Prepare
 
